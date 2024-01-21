@@ -1,0 +1,5 @@
+To be able to work with Unity, please download and install Unity hub.
+The assignment should be done with Unity version 2021.3.25.
+Go to Assetes after creating new 2d project,import the attached package .
+Navigate to "Board" scence and hit "Play"
+The game created in C# And Unity Engine.
